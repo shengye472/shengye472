@@ -1,4 +1,4 @@
-#  <div align="center">Hi  <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> I'm Sheng Ye</div>
+#  <div align="center"><img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>Hi, I'm Sheng Ye</div>
 
 ### 😋About me...
 
